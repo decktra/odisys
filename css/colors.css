@@ -750,7 +750,7 @@ ul.trx_addons_list_parameters>li em {
     color: #999999
 }
 .scheme_default .post_meta_item.post_author a {
-    border-bottom: 1px solid rgba(255, 25, 79, 0.2);
+    border-bottom: 1px solid rgba(10, 14, 50, 0.2);
     color: #19237F
 }
 .scheme_default .post_date a:hover,
@@ -1446,7 +1446,7 @@ ul.trx_addons_list_parameters>li em {
     background-position: right bottom!important
 }
 .scheme_default .post_featured .mask {
-    background-color: rgba(66, 202, 243, 0.5)
+    background-color: rgba(10, 14, 50, 0.5)
 }
 .scheme_default .post_featured.hover_dots:hover .mask {
     background-color: rgba(45, 45, 45, 0.7)
@@ -3177,7 +3177,7 @@ ul.trx_addons_list_parameters>li em {
     color: #2d2d2d
 }
 .scheme_default .widget_price_filter .price_slider_wrapper .ui-widget-content {
-    background: rgba(255, 25, 79, 0.2)
+    background: rgba(10, 14, 50, 0.2)
 }
 .scheme_default .widget_price_filter .price_label span {
     color: #2d2d2d
@@ -3236,7 +3236,7 @@ ul.trx_addons_list_parameters>li em {
 .scheme_default #tribe-bar-views li.tribe-bar-views-option a:hover,
 .scheme_default #tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option.tribe-bar-active a:hover {
     color: #ffffff;
-    background: rgba(255, 25, 79, 0.8)
+    background: rgba(10, 14, 50, 0.8)
 }
 .scheme_default .datepicker thead tr:first-child th:hover,
 .scheme_default .datepicker tfoot tr th:hover {
@@ -3890,7 +3890,7 @@ ul.trx_addons_list_parameters>li em {
     color: #999999
 }
 .scheme_light .post_meta_item.post_author a {
-    border-bottom: 1px solid rgba(255, 25, 79, 0.2);
+    border-bottom: 1px solid rgba(10, 14, 50, 0.2);
     color: #19237F
 }
 .scheme_light .post_date a:hover,
@@ -4586,7 +4586,7 @@ ul.trx_addons_list_parameters>li em {
     background-position: right bottom!important
 }
 .scheme_light .post_featured .mask {
-    background-color: rgba(66, 202, 243, 0.5)
+    background-color: rgba(10, 14, 50, 0.5)
 }
 .scheme_light .post_featured.hover_dots:hover .mask {
     background-color: rgba(45, 45, 45, 0.7)
@@ -6313,7 +6313,7 @@ ul.trx_addons_list_parameters>li em {
     color: #2d2d2d
 }
 .scheme_light .widget_price_filter .price_slider_wrapper .ui-widget-content {
-    background: rgba(255, 25, 79, 0.2)
+    background: rgba(10, 14, 50, 0.2)
 }
 .scheme_light .widget_price_filter .price_label span {
     color: #2d2d2d
@@ -6372,7 +6372,7 @@ ul.trx_addons_list_parameters>li em {
 .scheme_light #tribe-bar-views li.tribe-bar-views-option a:hover,
 .scheme_light #tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option.tribe-bar-active a:hover {
     color: #ffffff;
-    background: rgba(255, 25, 79, 0.8)
+    background: rgba(10, 14, 50, 0.8)
 }
 .scheme_light .datepicker thead tr:first-child th:hover,
 .scheme_light .datepicker tfoot tr th:hover {
@@ -7026,7 +7026,7 @@ ul.trx_addons_list_parameters>li em {
     color: #e9e9eb
 }
 .scheme_side .post_meta_item.post_author a {
-    border-bottom: 1px solid rgba(255, 25, 79, 0.2);
+    border-bottom: 1px solid rgba(10, 14, 50, 0.2);
     color: #19237F
 }
 .scheme_side .post_date a:hover,
@@ -7722,7 +7722,7 @@ ul.trx_addons_list_parameters>li em {
     background-position: right bottom!important
 }
 .scheme_side .post_featured .mask {
-    background-color: rgba(66, 202, 243, 0.5)
+    background-color: rgba(10, 14, 50, 0.5)
 }
 .scheme_side .post_featured.hover_dots:hover .mask {
     background-color: rgba(255, 255, 255, 0.7)
@@ -9449,7 +9449,7 @@ ul.trx_addons_list_parameters>li em {
     color: #ffffff
 }
 .scheme_side .widget_price_filter .price_slider_wrapper .ui-widget-content {
-    background: rgba(255, 25, 79, 0.2)
+    background: rgba(10, 14, 50, 0.2)
 }
 .scheme_side .widget_price_filter .price_label span {
     color: #ffffff
@@ -9508,7 +9508,7 @@ ul.trx_addons_list_parameters>li em {
 .scheme_side #tribe-bar-views li.tribe-bar-views-option a:hover,
 .scheme_side #tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option.tribe-bar-active a:hover {
     color: #ffffff;
-    background: rgba(255, 25, 79, 0.8)
+    background: rgba(10, 14, 50, 0.8)
 }
 .scheme_side .datepicker thead tr:first-child th:hover,
 .scheme_side .datepicker tfoot tr th:hover {
@@ -9691,7 +9691,7 @@ ul.trx_addons_list_parameters>li em {
     font-family: "caveat", serif
 }
 .scheme_dark blockquote:before {
-    color: rgba(255, 25, 79, 0.1);
+    color: rgba(10, 14, 50, 0.1);
     font-family: "caveat", serif
 }
 .scheme_dark blockquote cite,
@@ -10162,7 +10162,7 @@ ul.trx_addons_list_parameters>li em {
     color: #e9e9eb
 }
 .scheme_dark .post_meta_item.post_author a {
-    border-bottom: 1px solid rgba(255, 25, 79, 0.2);
+    border-bottom: 1px solid rgba(10, 14, 50, 0.2);
     color: #19237F
 }
 .scheme_dark .post_date a:hover,
@@ -10173,7 +10173,7 @@ ul.trx_addons_list_parameters>li em {
     color: #19237F
 }
 .scheme_dark .post_meta_item.post_author a:hover {
-    border-bottom-color: rgba(255, 25, 79, 0.1);
+    border-bottom-color: rgba(10, 14, 50, 0.1);
     color: #19237F
 }
 .scheme_dark .post_item .post_title a:hover {
@@ -10858,10 +10858,10 @@ ul.trx_addons_list_parameters>li em {
     background-position: right bottom!important
 }
 .scheme_dark .post_featured .mask {
-    background-color: rgba(66, 202, 243, 0.5)
+    background-color: rgba(10, 14, 50, 0.5)
 }
 .scheme_dark .post_featured.hover_dots:hover .mask {
-    background-color: rgba(255, 25, 79, 0.7)
+    background-color: rgba(10, 14, 50, 0.7)
 }
 .scheme_dark .post_featured.hover_dots .icons div {
     background-color: #2F53EA
@@ -11888,7 +11888,7 @@ ul.trx_addons_list_parameters>li em {
     color: #19237F
 }
 .scheme_dark .trx_addons_cv_header .trx_addons_cv_header_socials .social_item>a {
-    color: rgba(255, 25, 79, 0.7)
+    color: rgba(10, 14, 50, 0.7)
 }
 .scheme_dark .trx_addons_cv_header .trx_addons_cv_header_socials .social_item>a:hover {
     color: #19237F
@@ -12318,7 +12318,7 @@ ul.trx_addons_list_parameters>li em {
 }
 .scheme_dark .single-product ul.products li.product .post_data {
     color: #f0f0f0;
-    background-color: rgba(255, 25, 79, 0.7)
+    background-color: rgba(10, 14, 50, 0.7)
 }
 .scheme_dark .single-product ul.products li.product .post_data .price span.amount {
     color: #f0f0f0
@@ -12585,7 +12585,7 @@ ul.trx_addons_list_parameters>li em {
     color: #19237F
 }
 .scheme_dark .widget_price_filter .price_slider_wrapper .ui-widget-content {
-    background: rgba(255, 25, 79, 0.2)
+    background: rgba(10, 14, 50, 0.2)
 }
 .scheme_dark .widget_price_filter .price_label span {
     color: #19237F
@@ -12644,7 +12644,7 @@ ul.trx_addons_list_parameters>li em {
 .scheme_dark #tribe-bar-views li.tribe-bar-views-option a:hover,
 .scheme_dark #tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option.tribe-bar-active a:hover {
     color: #ffffff;
-    background: rgba(255, 25, 79, 0.8)
+    background: rgba(10, 14, 50, 0.8)
 }
 .scheme_dark .datepicker thead tr:first-child th:hover,
 .scheme_dark .datepicker tfoot tr th:hover {
