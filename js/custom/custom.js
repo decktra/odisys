@@ -29,7 +29,7 @@ var MELANIE_HANSON_STORAGE = {
 		"send_error": "Transmit failed!"
 	},
 	"menu_hover": "fade",
-	"menu_hover_color": "#ff194f",
+	"menu_hover_color": "#19237F",
 	"button_hover": "antiman",
 	"alter_link_color": "#4c4c4c"
 };

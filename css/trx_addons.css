@@ -23,7 +23,7 @@
 .preloader_wrap>div {
     height: 10px;
     width: 10px;
-    background-color: #efa758
+    background-color: #2F53EB
 }
 .preloader_wrap>div[class*="preloader_circ"] {
     margin-right: 5px;
@@ -1885,7 +1885,7 @@ aside.widget_bg_image li a {
 }
 .sc_slider_controller_thumbs .swiper-slide.swiper-slide-active {
     margin-top: 0;
-    border-top: 3px solid #efa758
+    border-top: 3px solid #2F53EB
 }
 .sc_slider_controller_thumbs .sc_slider_controller_info {
     font-size: 1em;
@@ -1914,7 +1914,7 @@ aside.widget_bg_image li a {
 .sc_slider_controller_titles .swiper-slide.swiper-slide-active {
     margin-top: 0;
     padding-top: 9px;
-    border-top: 3px solid #efa758;
+    border-top: 3px solid #2F53EB;
     background-color: #fff
 }
 .sc_slider_controller_titles .swiper-slide.swiper-slide-active:after {
@@ -1978,7 +1978,7 @@ aside.widget_bg_image li a {
     color: #fff
 }
 .sc_events_default .sc_events_item:hover .sc_events_item_date {
-    background-color: #efa758
+    background-color: #2F53EB
 }
 .sc_events_item_day {
     display: block;
@@ -2001,13 +2001,13 @@ aside.widget_bg_image li a {
     padding-right: 3em
 }
 .sc_events_item:hover .sc_events_item_title {
-    color: #efa758
+    color: #2F53EB
 }
 .sc_events_item_time {
     color: #888888
 }
 .sc_events_item:hover .sc_events_item_time {
-    color: #efa758
+    color: #2F53EB
 }
 .sc_events_item_title,
 .sc_events_item_button {
@@ -2023,7 +2023,7 @@ aside.widget_bg_image li a {
     text-align: center
 }
 .sc_events_item:hover .sc_events_item_button {
-    color: #efa758
+    color: #2F53EB
 }
 .sc_events_item_button:before {
     content: '\e884';
@@ -2031,7 +2031,7 @@ aside.widget_bg_image li a {
 }
 .sc_events_detailed .sc_events_item {
     background-color: transparent;
-    border: 1px solid #efa758;
+    border: 1px solid #2F53EB;
     white-space: nowrap;
     height: auto
 }
@@ -2049,7 +2049,7 @@ aside.widget_bg_image li a {
     box-sizing: border-box
 }
 .sc_events_detailed .sc_events_item_date_wrap {
-    border-right: 1px solid #efa758;
+    border-right: 1px solid #2F53EB;
     width: 17%
 }
 .sc_events_detailed .sc_events_item_title_wrap {
@@ -2065,7 +2065,7 @@ aside.widget_bg_image li a {
 .sc_events_detailed .sc_events_item_button_wrap:before {
     content: ' ';
     display: block;
-    border-right: 2px solid #efa758;
+    border-right: 2px solid #2F53EB;
     position: absolute;
     width: 0;
     height: 1em;
@@ -2113,7 +2113,7 @@ aside.widget_bg_image li a {
     display: none
 }
 .sc_events_detailed .sc_events_item:hover {
-    background-color: #efa758;
+    background-color: #2F53EB;
     color: #fff
 }
 .sc_events_detailed .sc_events_item:hover .sc_events_item_time_wrap:before,
@@ -2121,11 +2121,11 @@ aside.widget_bg_image li a {
     border-color: #fff
 }
 .trx_addons_accent {
-    color: #efa758
+    color: #2F53EB
 }
 .trx_addons_accent_bg {
     color: #fff;
-    background-color: #efa758;
+    background-color: #2F53EB;
     padding: 0 0.4em;
     display: inline-block
 }
@@ -2159,11 +2159,11 @@ aside.widget_bg_image li a {
     background-color: #000
 }
 .trx_addons_dropcap_style_2 {
-    background-color: #efa758
+    background-color: #2F53EB
 }
 .trx_addons_tooltip {
-    color: #efa758;
-    border-bottom: 1px dashed #efa758;
+    color: #2F53EB;
+    border-bottom: 1px dashed #2F53EB;
     position: relative;
     cursor: default
 }
@@ -2172,7 +2172,7 @@ aside.widget_bg_image li a {
     display: inline-block;
     white-space: nowrap;
     padding: 0.1em 1em;
-    background-color: #efa758;
+    background-color: #2F53EB;
     color: #fff;
     font-size: 0.8em;
     position: absolute;
@@ -2202,7 +2202,7 @@ aside.widget_bg_image li a {
     width: 0;
     height: 0;
     border: 4px solid transparent;
-    border-top-color: #efa758;
+    border-top-color: #2F53EB;
     position: absolute;
     z-index: 2;
     left: 50%;
@@ -2618,7 +2618,7 @@ ul.trx_addons_list_parameters>li em {
     color: #fff
 }
 .sc_team_short .sc_team_item_thumb {
-    border-bottom: 5px solid #efa758
+    border-bottom: 5px solid #2F53EB
 }
 .team_member_page .team_member_header {
     overflow: hidden
@@ -2699,7 +2699,7 @@ ul.trx_addons_list_parameters>li em {
     font-family: 'trx_addons_icons';
     font-size: 1.5em;
     line-height: 1.5em;
-    color: #efa758;
+    color: #2F53EB;
     display: block;
     margin-bottom: 2em
 }
@@ -3991,7 +3991,7 @@ ul.trx_addons_list_parameters>li em {
 }
 .sc_slider_controller_thumbs .swiper-slide.swiper-slide-active {
     margin-top: 0;
-    border-top: 3px solid #efa758
+    border-top: 3px solid #2F53EB
 }
 .sc_slider_controller_thumbs .sc_slider_controller_info {
     font-size: 1em;
@@ -4020,7 +4020,7 @@ ul.trx_addons_list_parameters>li em {
 .sc_slider_controller_titles .swiper-slide.swiper-slide-active {
     margin-top: 0;
     padding-top: 9px;
-    border-top: 3px solid #efa758;
+    border-top: 3px solid #2F53EB;
     background-color: #fff
 }
 .sc_slider_controller_titles .swiper-slide.swiper-slide-active:after {
@@ -4442,7 +4442,7 @@ ul.trx_addons_list_parameters>li em {
     color: #ccc
 }
 .sc_action_item_default .sc_action_item_subtitle {
-    color: #efa758
+    color: #2F53EB
 }
 .sc_action_item_default.with_image .sc_action_item_date {
     border-color: #fff
@@ -4519,7 +4519,7 @@ ul.trx_addons_list_parameters>li em {
     color: #ccc
 }
 .sc_action_item_simple .sc_action_item_subtitle {
-    color: #efa758
+    color: #2F53EB
 }
 .sc_action_item_simple.with_image .sc_action_item_date {
     border-color: #fff
@@ -4613,7 +4613,7 @@ ul.trx_addons_list_parameters>li em {
 }
 .sc_action_item_event .sc_action_item_link {
     border: none;
-    background-color: #efa758;
+    background-color: #2F53EB;
     color: #fff
 }
 .sc_anchor {
@@ -4788,7 +4788,7 @@ ul.trx_addons_list_parameters>li em {
     background-repeat: no-repeat;
     background-size: contain;
     overflow: hidden;
-    background-color: #efa758;
+    background-color: #2F53EB;
     color: #fff
 }
 .sc_button.sc_button_bordered {
@@ -5053,7 +5053,7 @@ ul.trx_addons_list_parameters>li em {
     color: #000
 }
 .sc_form .sc_form_info_data>a:hover {
-    color: #efa758
+    color: #2F53EB
 }
 .sc_form_detailed .sc_form_title,
 .sc_form_detailed .sc_form_description {
@@ -5274,7 +5274,7 @@ ul.trx_addons_list_parameters>li em {
 .sc_input_hover_accent input[type="search"]:focus,
 .sc_input_hover_accent select:focus,
 .sc_input_hover_accent textarea:focus {
-    border-color: #efa758 !important
+    border-color: #2F53EB !important
 }
 @-webkit-keyframes anim-accent {
     to {
@@ -5403,7 +5403,7 @@ ul.trx_addons_list_parameters>li em {
     left: 0;
     font-weight: bold;
     margin: 0;
-    color: #efa758
+    color: #2F53EB
 }
 .sc_input_hover_jump input:focus + .sc_form_field_hover,
 .sc_input_hover_jump textarea:focus + .sc_form_field_hover,
@@ -5425,7 +5425,7 @@ ul.trx_addons_list_parameters>li em {
 .sc_input_hover_path textarea:focus,
 .sc_input_hover_path input.filled,
 .sc_input_hover_path textarea.filled {
-    border-color: #efa758
+    border-color: #2F53EB
 }
 @-webkit-keyframes anim-jump-1 {
     0%, 70% {
@@ -5719,7 +5719,7 @@ ul.trx_addons_list_parameters>li em {
     max-width: 75%
 }
 .sc_icons .sc_icons_icon {
-    color: #efa758;
+    color: #2F53EB;
     position: relative;
     z-index: 2;
     display: inline-block;
@@ -6056,7 +6056,7 @@ blockquote.sc_promo_text {
     font-size: 3em;
     line-height: 1.3em;
     margin-bottom: 0.5em;
-    color: #efa758
+    color: #2F53EB
 }
 .sc_promo_icon span:before {
     margin: 0
@@ -6216,7 +6216,7 @@ blockquote.sc_promo_text {
     z-index: 1;
     bottom: 12%;
     padding: 0.7em 1.7em;
-    background-color: #efa758;
+    background-color: #2F53EB;
     color: #fff
 }
 .sc_promo_modern.sc_promo_image_position_left .sc_promo_link2 {
@@ -6309,7 +6309,7 @@ blockquote.sc_promo_text {
     text-align: center;
     font-size: 5.5em;
     line-height: 1em;
-    color: #efa758
+    color: #2F53EB
 }
 .sc_skills_counter .sc_skills_total {
     display: block;

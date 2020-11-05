@@ -567,13 +567,13 @@ input[type="submit"],
 }
 
 .post-password-form input[type="submit"] {
-    background-color: #ff194f!important;
+    background-color: #19237F!important;
     padding-bottom: 1.25em;
     padding-top: 1.25em;
 }
 
 .post-password-form input[type="submit"]:hover {
-    background-color: #42caf3!important;
+    background-color: #2F53EA!important;
     color: #fff!important;
 }
 
