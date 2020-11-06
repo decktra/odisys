@@ -1,3 +1,13 @@
+.mt-5 {
+	margin-top: 50px;
+}
+
+.sc_services_item {
+	max-width: 350px;
+	width: 100%;
+  margin: 0 auto;
+}
+
 a.eg-henryharrison-element-1,
 a.eg-henryharrison-element-2 {
 	-webkit-transition: all .4s linear;
