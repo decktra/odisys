@@ -33,6 +33,15 @@ Table of contents
 @import url('https://fonts.googleapis.com/css?family=Sunflower:300,500,700');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
 
+@font-face {
+  font-family: 'covesbold';
+  src: url('fonts/coves_bold.woff2') format('woff2'),
+       url('fonts/coves_bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 /*---------------------------------
 * 01. Loading
 -----------------------------------*/
@@ -157,10 +166,10 @@ Table of contents
 * 02. Common
 -----------------------------------*/
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'covesbold', 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
-	font-size: 14px;
+	font-size: 18px;
 	line-height: 1.5;
   color: #666666;
 }
@@ -184,7 +193,7 @@ img {
 }
 
 .font-alt {
-    font-family: 'Sunflower', sans-serif;
+    font-family: 'covesbold', 'Sunflower', sans-serif;
 }
 
 .gray-bg {
@@ -235,7 +244,7 @@ img {
 }
 .section-title p {
   margin: 0;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 @media (max-width: 767px){
@@ -426,7 +435,7 @@ img {
 	color: #fff;
 	font-weight: 800;
 	position: relative;
-  font-size: 23px;
+  font-size: 28px;
 }
 .header-nav .navbar-brand span {
 	 width: 6px;
@@ -883,7 +892,7 @@ img {
 *  About Left
 -----------------------------------------*/
 .about-left h2 {
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 700;
   color: #111;
   margin: 0 0 15px;
@@ -898,7 +907,7 @@ img {
 .about-left p {
   width: 470px;
   max-width: 100%;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .about-left .m-btn-link {
@@ -1006,7 +1015,7 @@ img {
 }
 
 .feature-box-02 h5 {
-  font-size: 16px;
+  font-size: 26px;
   color: #151515;
   margin-bottom: 15px;
   font-weight: 700;
@@ -1065,7 +1074,7 @@ img {
     padding: 20px 0;
   }
   .counter-col {
-    margin: 15px 0;
+    margin: 18px 0;
   }
   .counter-col:before,
   .counter-col:after {
