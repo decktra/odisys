@@ -1704,6 +1704,10 @@ blockquote.blockquote-left .parson { font-weight: 600; }
   color: #a5a5a5;
 }
 
+.copyright {
+  color: white;
+}
+
 /*-----------------------------------------
 *  Background Properties
 -----------------------------------------*/
